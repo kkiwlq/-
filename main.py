@@ -1,1 +1,1 @@
-print("Hello")
+print("privet, studentiki")
